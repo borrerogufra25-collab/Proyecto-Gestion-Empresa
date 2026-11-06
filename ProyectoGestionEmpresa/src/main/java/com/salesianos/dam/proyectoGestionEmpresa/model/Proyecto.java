@@ -35,5 +35,4 @@ public class Proyecto {
   private List<Tarea> tarea = new ArrayList<>();
 
 
-
 }
